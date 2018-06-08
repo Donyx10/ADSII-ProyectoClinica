@@ -1,0 +1,983 @@
+!SESSION 2018-05-09 19:29:42.622 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:01.720
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:01.758
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:01.780
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:01.993
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:02.308
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-09 19:31:02.441
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:26.093
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-09 19:31:35.293
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-09 19:31:35.297
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 19:31:53.536
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-09 20:34:45.490 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 20:34:52.006
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 20:34:52.021
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 20:34:52.037
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 20:34:52.099
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 20:34:52.115
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-09 20:34:52.287
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-09 20:34:57.474
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-16 16:15:06.188 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -data C:\Users\Dony\Desktop\Cibertec\Ciclo IV\Analisis y Diseño II\AvanceProyecto -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:10.527
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:10.547
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:10.567
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:10.641
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:10.731
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-16 16:15:10.741
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-16 16:15:13.488
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-16 16:15:13.488
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:18.051
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 16:15:57.567
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-16 17:47:00.546 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 17:48:31.475
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 17:48:31.491
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 17:48:31.557
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 17:48:31.616
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 17:48:31.737
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-16 17:48:31.816
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-16 17:48:54.591
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-16 17:48:54.599
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-16 17:49:11.883
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-18 13:20:30.054 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:22:08.079
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:22:08.100
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:22:08.117
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:22:08.250
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-18 13:22:08.670
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:22:08.689
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-18 13:22:16.783
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-18 13:22:16.788
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:40:02.910
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 13:46:03.990
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-18 19:07:21.770 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:08:03.537
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:08:03.787
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:08:03.849
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:08:03.880
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-18 19:08:04.521
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:08:04.552
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-18 19:08:09.161
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-18 19:08:09.177
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:08:17.145
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 19:23:31.312
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-18 22:14:43.125 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 22:15:12.404
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 22:15:12.420
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 22:15:12.436
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 22:15:12.576
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-18 22:15:13.014
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 22:15:13.029
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-18 22:41:12.014
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-18 22:41:12.014
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-18 22:41:22.764
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-19 18:49:18.363 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-05-19 18:50:02.747
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:50:08.880
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:50:08.911
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:50:08.943
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:50:09.096
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:50:09.539
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-19 18:50:09.587
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-19 18:50:19.730
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-19 18:50:19.745
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:50:30.690
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-19 18:52:20.891
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-21 22:38:26.415 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-05-21 22:38:31.145
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-21 22:38:36.488
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-21 22:38:36.522
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-21 22:38:36.542
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-21 22:38:36.650
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-21 22:38:37.023
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-21 22:38:37.067
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-21 22:38:44.111
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-21 22:38:44.117
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-21 22:38:55.857
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-05-30 20:54:06.761 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 20:59:41.898
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 20:59:41.920
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 20:59:41.944
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 20:59:42.069
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-05-30 20:59:42.439
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 20:59:42.453
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-30 20:59:47.945
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-05-30 20:59:47.949
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 21:00:01.635
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-05-30 21:00:20.208
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY org.eclipse.ui 4 0 2018-05-30 21:55:52.781
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: The service has been unregistered
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistrationImpl.unregister(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.shutdown(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.busyClose(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.access$15(Unknown Source)
+	at org.eclipse.ui.internal.Workbench$25.run(Unknown Source)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.close(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.close(Unknown Source)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(Unknown Source)
+	at org.eclipse.ui.internal.WorkbenchWindow.access$0(Unknown Source)
+	at org.eclipse.ui.internal.WorkbenchWindow$5.run(Unknown Source)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(Unknown Source)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(Unknown Source)
+	at org.eclipse.jface.window.Window.handleShellCloseEvent(Unknown Source)
+	at org.eclipse.jface.window.Window$3.shellClosed(Unknown Source)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runUI(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.access$4(Unknown Source)
+	at org.eclipse.ui.internal.Workbench$7.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(Unknown Source)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.basicRun(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.run(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.main(Unknown Source)
+!SESSION 2018-06-04 19:39:23.582 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:39:44.759
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:39:44.787
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:39:44.808
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:39:44.923
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:39:45.339
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-06-04 19:39:45.385
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-04 19:39:51.071
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-04 19:39:51.077
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:40:01.585
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-04 19:41:32.891
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-06-07 00:43:03.831 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:40.841
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:40.856
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:40.872
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:41.075
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:41.465
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-06-07 00:47:41.544
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:46.106
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 00:47:52.856
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 00:47:52.873
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 00:47:57.287
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 01:35:20.992
+!MESSAGE LUM license expired for productID 47: Past the expiration date on license.
+
+!ENTRY org.eclipse.osgi 2 1 2018-06-07 01:40:03.501
+!MESSAGE NLS missing message: MenuManager_CreateAction__ServiceProvider__Stereotype_name in: com.ibm.xtools.modeling.enterprise.services.internal.l10n.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-06-07 01:40:03.514
+!MESSAGE NLS unused message: MenuManager_CreateAction__MessageDriven__Activity_name in: com.ibm.xtools.transform.uml2.ejb3.ui.internal.l10n.EJB_3_0_TransformationMessages
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 01:40:41.371
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.core 4 0 2018-06-07 01:40:41.432
+!MESSAGE Feature com.ibm.xtools.transform.uml2.soa.feature, version 1.0.0, failed license check
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 01:40:41.937
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.core 4 0 2018-06-07 01:40:41.941
+!MESSAGE Feature com.ibm.xtools.transform.uml2.soa.feature, version 1.0.0, failed license check
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 01:40:42.021
+!MESSAGE LUM license expired for productID 49: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.core 4 0 2018-06-07 01:40:42.031
+!MESSAGE Feature com.ibm.rsa.sipmtk.feature, version 7.5.4.qualifier, failed license check
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 01:40:42.051
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.core 4 0 2018-06-07 01:40:42.055
+!MESSAGE Feature com.ibm.xtools.transform.uml2.soa.feature, version 1.0.0, failed license check
+!SESSION 2018-06-07 08:57:11.796 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 09:39:04.087
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 09:39:04.136
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 09:39:04.155
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 09:39:04.297
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 09:39:04.693
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-06-07 09:39:04.744
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 09:39:15.540
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 09:39:15.545
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 09:39:29.683
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-06-07 16:02:07.205 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:02:21.625
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:02:21.735
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:02:21.755
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:02:21.948
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:02:22.419
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-06-07 16:02:22.536
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 16:02:27.845
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 16:02:27.855
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:02:43.909
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:13:05.866
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:15:18.262
+!MESSAGE LUM license expired for productID 47: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 16:16:57.886
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+!SESSION 2018-06-07 18:24:33.659 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:24:51.041
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:24:51.072
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:24:51.088
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:24:51.342
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:24:51.699
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2018-06-07 18:24:51.726
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 18:24:56.181
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.xtools.emf.index 2 9 2018-06-07 18:24:56.185
+!MESSAGE The feature in the extension is invalid
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:25:04.617
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY org.eclipse.ui 4 0 2018-06-07 18:25:08.942
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (org.eclipse.swt.SWTException: Widget is disposed)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runUI(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.access$4(Unknown Source)
+	at org.eclipse.ui.internal.Workbench$7.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(Unknown Source)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.basicRun(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.run(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.main(Unknown Source)
+Caused by: org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.getStyle(Unknown Source)
+	at org.eclipse.draw2d.LightweightSystem$RootFigure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.Figure.isMirrored(Unknown Source)
+	at org.eclipse.draw2d.text.BlockFlow.getOrientation(Unknown Source)
+	at org.eclipse.draw2d.text.BlockFlow.validate(Unknown Source)
+	at org.eclipse.draw2d.text.FlowPage.validate(Unknown Source)
+	at org.eclipse.draw2d.text.FlowPage.getPreferredSize(Unknown Source)
+	at org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel.getPreferredSize(Unknown Source)
+	at org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout.calculateChildrenSize(Unknown Source)
+	at org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout.calculatePreferredSize(Unknown Source)
+	at org.eclipse.draw2d.AbstractLayout.getPreferredSize(Unknown Source)
+	at org.eclipse.draw2d.AbstractHintLayout.getPreferredSize(Unknown Source)
+	at org.eclipse.draw2d.Figure.getPreferredSize(Unknown Source)
+	at com.ibm.xtools.uml.ui.diagrams.clazz.internal.draw2d.ClassifierNodeFigure$1.getPreferredSize(Unknown Source)
+	at org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout.calculateChildrenSize(Unknown Source)
+	at org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout.calculatePreferredSize(Unknown Source)
+	at org.eclipse.draw2d.AbstractLayout.getPreferredSize(Unknown Source)
+	at org.eclipse.draw2d.AbstractHintLayout.getPreferredSize(Unknown Source)
+	at org.eclipse.draw2d.Figure.getPreferredSize(Unknown Source)
+	at com.ibm.xtools.uml.ui.diagram.internal.draw2d.FixedDistanceGatedPaneFigure.getPreferredSize(Unknown Source)
+	at org.eclipse.gmf.runtime.diagram.ui.layout.FreeFormLayoutEx.layout(Unknown Source)
+	at org.eclipse.draw2d.Figure$LayoutNotifier.layout(Unknown Source)
+	at org.eclipse.draw2d.Figure.layout(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.gmf.runtime.diagram.ui.figures.BorderItemsAwareFreeFormLayer.validate(Unknown Source)
+	at org.eclipse.gmf.runtime.diagram.ui.editparts.DiagramEditPart$1.validate(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.gmf.runtime.diagram.ui.figures.BorderItemsAwareFreeFormLayer.validate(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.draw2d.Viewport.validate(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Unknown Source)
+	at org.eclipse.draw2d.DeferredUpdateManager.performValidation(Unknown Source)
+	at org.eclipse.draw2d.DeferredUpdateManager.performUpdate(Unknown Source)
+	at org.eclipse.draw2d.DeferredUpdateManager$UpdateRequest.run(Unknown Source)
+	at org.eclipse.swt.widgets.RunnableLock.run(Unknown Source)
+	... 24 more
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:25:42.575
+!MESSAGE LUM license expired for productID 47: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2018-06-07 18:26:10.414
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY org.eclipse.ui 4 0 2018-06-07 19:09:43.724
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.util.ConcurrentModificationException
+	at java.util.HashMap$AbstractMapIterator.checkConcurrentMod(Unknown Source)
+	at java.util.HashMap$AbstractMapIterator.makeNext(Unknown Source)
+	at java.util.HashMap$ValueIterator.next(Unknown Source)
+	at org.eclipse.draw2d.internal.MultiValueMap.removeValue(Unknown Source)
+	at org.eclipse.draw2d.AutomaticRouter.invalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection$RoutingNotifier.invalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection.revalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection.anchorMoved(Unknown Source)
+	at org.eclipse.draw2d.ConnectionAnchorBase.fireAnchorMoved(Unknown Source)
+	at org.eclipse.draw2d.AbstractConnectionAnchor.ancestorMoved(Unknown Source)
+	at org.eclipse.draw2d.AncestorHelper.fireAncestorMoved(Unknown Source)
+	at org.eclipse.draw2d.AncestorHelper.figureMoved(Unknown Source)
+	at org.eclipse.draw2d.Figure.fireFigureMoved(Unknown Source)
+	at org.eclipse.draw2d.Figure.fireMoved(Unknown Source)
+	at org.eclipse.draw2d.FreeformLayeredPane.superFireMoved(Unknown Source)
+	at org.eclipse.draw2d.ScalableFreeformLayeredPane.setScale(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primAnimateSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.setZoom(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.zoomIn(Unknown Source)
+	at org.eclipse.gef.MouseWheelZoomHandler.handleMouseWheel(Unknown Source)
+	at org.eclipse.gef.tools.AbstractTool.performViewerMouseWheel(Unknown Source)
+	at org.eclipse.gef.tools.AbstractTool.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.tools.SelectionTool.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.EditDomain.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMouseWheelScrolled(Unknown Source)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendMouseEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendMouseWheelEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.wmMouseWheel(Unknown Source)
+	at org.eclipse.swt.widgets.Control.WM_MOUSEWHEEL(Unknown Source)
+	at org.eclipse.swt.widgets.Scrollable.wmScrollWheel(Unknown Source)
+	at org.eclipse.swt.widgets.Scrollable.WM_MOUSEWHEEL(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runUI(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.access$4(Unknown Source)
+	at org.eclipse.ui.internal.Workbench$7.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(Unknown Source)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.basicRun(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.run(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.main(Unknown Source)
+
+!ENTRY org.eclipse.ui 4 0 2018-06-07 19:13:00.257
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.util.ConcurrentModificationException
+	at java.util.HashMap$AbstractMapIterator.checkConcurrentMod(Unknown Source)
+	at java.util.HashMap$AbstractMapIterator.makeNext(Unknown Source)
+	at java.util.HashMap$ValueIterator.next(Unknown Source)
+	at org.eclipse.draw2d.internal.MultiValueMap.removeValue(Unknown Source)
+	at org.eclipse.draw2d.AutomaticRouter.invalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection$RoutingNotifier.invalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection.revalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection.anchorMoved(Unknown Source)
+	at org.eclipse.draw2d.ConnectionAnchorBase.fireAnchorMoved(Unknown Source)
+	at org.eclipse.draw2d.AbstractConnectionAnchor.ancestorMoved(Unknown Source)
+	at org.eclipse.draw2d.AncestorHelper.fireAncestorMoved(Unknown Source)
+	at org.eclipse.draw2d.AncestorHelper.figureMoved(Unknown Source)
+	at org.eclipse.draw2d.Figure.fireFigureMoved(Unknown Source)
+	at org.eclipse.draw2d.Figure.fireMoved(Unknown Source)
+	at org.eclipse.draw2d.FreeformLayeredPane.superFireMoved(Unknown Source)
+	at org.eclipse.draw2d.ScalableFreeformLayeredPane.setScale(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primAnimateSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.setZoom(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.zoomIn(Unknown Source)
+	at org.eclipse.gef.MouseWheelZoomHandler.handleMouseWheel(Unknown Source)
+	at org.eclipse.gef.tools.AbstractTool.performViewerMouseWheel(Unknown Source)
+	at org.eclipse.gef.tools.AbstractTool.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.tools.SelectionTool.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.EditDomain.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMouseWheelScrolled(Unknown Source)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendMouseEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendMouseWheelEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.wmMouseWheel(Unknown Source)
+	at org.eclipse.swt.widgets.Control.WM_MOUSEWHEEL(Unknown Source)
+	at org.eclipse.swt.widgets.Scrollable.wmScrollWheel(Unknown Source)
+	at org.eclipse.swt.widgets.Scrollable.WM_MOUSEWHEEL(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runUI(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.access$4(Unknown Source)
+	at org.eclipse.ui.internal.Workbench$7.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(Unknown Source)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.basicRun(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.run(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.main(Unknown Source)
+
+!ENTRY org.eclipse.ui 4 0 2018-06-07 19:13:00.929
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.util.ConcurrentModificationException
+	at java.util.HashMap$AbstractMapIterator.checkConcurrentMod(Unknown Source)
+	at java.util.HashMap$AbstractMapIterator.makeNext(Unknown Source)
+	at java.util.HashMap$ValueIterator.next(Unknown Source)
+	at org.eclipse.draw2d.internal.MultiValueMap.removeValue(Unknown Source)
+	at org.eclipse.draw2d.AutomaticRouter.invalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection$RoutingNotifier.invalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection.revalidate(Unknown Source)
+	at org.eclipse.draw2d.PolylineConnection.anchorMoved(Unknown Source)
+	at org.eclipse.draw2d.ConnectionAnchorBase.fireAnchorMoved(Unknown Source)
+	at org.eclipse.draw2d.AbstractConnectionAnchor.ancestorMoved(Unknown Source)
+	at org.eclipse.draw2d.AncestorHelper.fireAncestorMoved(Unknown Source)
+	at org.eclipse.draw2d.AncestorHelper.figureMoved(Unknown Source)
+	at org.eclipse.draw2d.Figure.fireFigureMoved(Unknown Source)
+	at org.eclipse.draw2d.Figure.fireMoved(Unknown Source)
+	at org.eclipse.draw2d.FreeformLayeredPane.superFireMoved(Unknown Source)
+	at org.eclipse.draw2d.ScalableFreeformLayeredPane.setScale(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primAnimateSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gmf.runtime.gef.ui.internal.editparts.AnimatableZoomManager.primSetZoom(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.setZoom(Unknown Source)
+	at org.eclipse.gef.editparts.ZoomManager.zoomIn(Unknown Source)
+	at org.eclipse.gef.MouseWheelZoomHandler.handleMouseWheel(Unknown Source)
+	at org.eclipse.gef.tools.AbstractTool.performViewerMouseWheel(Unknown Source)
+	at org.eclipse.gef.tools.AbstractTool.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.tools.SelectionTool.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.EditDomain.mouseWheelScrolled(Unknown Source)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMouseWheelScrolled(Unknown Source)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendMouseEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendMouseWheelEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.wmMouseWheel(Unknown Source)
+	at org.eclipse.swt.widgets.Control.WM_MOUSEWHEEL(Unknown Source)
+	at org.eclipse.swt.widgets.Scrollable.wmScrollWheel(Unknown Source)
+	at org.eclipse.swt.widgets.Scrollable.WM_MOUSEWHEEL(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.runUI(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.access$4(Unknown Source)
+	at org.eclipse.ui.internal.Workbench$7.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Unknown Source)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(Unknown Source)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(Unknown Source)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Unknown Source)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.basicRun(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.run(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.main(Unknown Source)

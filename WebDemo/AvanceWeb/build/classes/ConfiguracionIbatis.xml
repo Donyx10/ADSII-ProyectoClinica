@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+
+<!-- PASO 1) Se registra las entidades -->		
+<typeAliases>
+
+	<typeAlias alias="marcaBeanIbatis" 
+			   type="com.google.buscador.venta.bean.MarcaBean" />
+			   
+	<typeAlias alias="computadoraBeanIbatis" 
+			   type="com.google.buscador.venta.bean.ComputadoraBean" />
+			   
+	<typeAlias alias="filtroBeanIbatis" 
+			   type="com.google.buscador.venta.bean.FiltroBean" />
+
+			   		   		   
+</typeAliases>
+
+
+<!-- los valores de la conexion -->		
+<environments default="development">
+				<environment id="development">
+					<transactionManager type="JDBC"/>
+						<dataSource type="UNPOOLED">
+								<property name="driver" value="com.mysql.jdbc.Driver"/>
+								<property name="url" value="jdbc:mysql://localhost:3306/bd_mantenimiento"/>
+								<property name="username" value="root"/>
+								<property name="password" value="mysql"/>
+						</dataSource>
+				</environment>
+</environments>
+
+
+		<mappers>
+				<mapper resource="mapper.xml" />
+		</mappers>
+
+</configuration>

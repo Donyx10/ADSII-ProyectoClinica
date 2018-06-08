@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="dawi">
+	
+	<resultMap id="mapMarca" type="marcaBeanIbatis" >
+		<id property="idMarca" column="idMarca"/><!-- PK -->
+		<result property="nombre" column="nombre"/>
+	</resultMap>
+	
+	<resultMap id="mapComputadora" type="computadoraBeanIbatis" >
+		<id property="idComputadora" column="idComputadora"/><!-- PK -->
+		<result property="nombre" column="nombre"/>		<!-- Columna -->
+		<result property="precio" column="precio"/>
+		<result property="stock" column="stock"/>
+		<association property="marca" column="idMarca" 	select="SQL_buscaMarca"/><!-- FK -->
+	</resultMap>
+	
+	<!-- Permite llenar el combo de marcas -->
+	<select id="SQL_listaMarca"  resultMap="mapMarca">
+			SELECT * from marca
+	</select>
+	
+	<!-- Permite realizar el regisrtro -->
+	<insert id="SQL_insertaComputadora" parameterType="computadoraBeanIbatis">
+			INSERT INTO computadora VALUES(null,
+			#{nombre},#{precio},#{stock},#{marca.idMarca})
+	</insert>
+	
+	<!-- Permite realizar el lista computadora -->
+	<select id="SQL_listaComputadora" parameterType="java.lang.String"	resultMap="mapComputadora">
+			SELECT * from computadora 
+			where nombre like #{filtro}
+	</select>
+	
+	<!-- Este select permite llenar las foraneas -->
+	<select id="SQL_buscaMarca" resultMap="mapMarca">
+		select * from marca where idMarca = #{id}
+	</select>
+	
+	
+	<select id="SQL_listaComputadoraXmarca" parameterType="marcaBeanIbatis" resultMap="mapComputadora">
+			SELECT * from computadora 
+			<if test="idMarca != -1 ">
+				where idMarca  = #{idMarca}
+			</if>
+	</select>
+	
+	<select id="SQL_listaComputadoraXmarcaMultiple" parameterType="filtroBeanIbatis" resultMap="mapComputadora">
+			SELECT * from computadora 
+			where idMarca  in
+			<foreach item="x" collection="opciones"	open="(" separator="," close=")">   
+					#{x}
+			</foreach>
+	</select>
+	
+	<select id="SQL_listaComputadoraXStock" parameterType="int"	resultMap="mapComputadora">
+			SELECT * from computadora where stock = #{filtro}
+	</select>
+</mapper>
+
+
+
+
+
+
+

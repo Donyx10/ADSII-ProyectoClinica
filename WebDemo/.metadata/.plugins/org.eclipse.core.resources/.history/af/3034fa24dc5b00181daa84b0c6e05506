@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="esS">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="js/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootstrapValidator.js"></script>
+<link rel="stylesheet" href="css/bootstrap.css" />
+<link rel="stylesheet" href="css/dataTables.bootstrap.min.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/bootstrapValidator.css" />
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<title>Generar orden de entrega de medicamentos</title>
+
+</head>
+<body>
+
+	<div class="container" style="padding-top: 5px;">
+		<h1 align="center">Generar entrega de medicamentos</h1>
+		<br>
+		<form action="generarCita" id="id_form">
+			<div class="row" align="left">
+					<div class="col-md-13" >
+						<fieldset>
+							<legend>Datos de Atencion</legend>
+							<div class="row">
+								<div class="col-md-3">
+									<label class="" for="id_codigo">Codigo de atencion:</label>
+								</div>
+								<div class="col-md-5">
+									<input class="form-control" type="text" value="222222" id="" name=""
+										placeholder="Ingrese el codigo">
+								</div>
+								<div class="col-md-2">
+									<button style="font-size: 20px">
+										<i class="fa fa-address-book"></i>
+									</button>
+								</div>
+		
+
+								<br>
+							</div>
+							<br>
+							<div class="row">
+								<div class="col-md-3">
+									<label class="" for="">Codigo de paciente:</label>
+								</div>
+								<div class="col-md-5">
+									<input class="form-control" type="text" value="DONNADONY MOLLO QUICANO"
+										id="" name="" placeholder="Ingrese el nombre" size="30">
+								</div>
+								
+							</div>
+							<br>
+							<div class="row">
+								<div class="col-md-3">
+									<label class="" for="">ESTADO:</label>
+								</div>
+								<div class="col-md-5">
+									<input class="form-control" type="text" value="CANCELADO"
+										id="" name="" placeholder="Ingrese el nombre" size="30">
+								</div>
+								<br>
+							</div>
+							<br>
+						</fieldset>
+					</div>
+				
+			</div>
+			<br>
+			<!--  
+					<div class="row">
+						<div class="col-md-13" >
+							<fieldset>
+								<legend>Datos del medico</legend>
+
+								<div class="row">
+									<div class="col-md-3">
+										<label class="" for="id_codigo">Codigo:</label>
+									</div>
+									<div class="col-md-5">
+										<input class="" type="text" id="id_codigo" value="2008100000029222"
+											name="computadora.nombre" placeholder="Ingrese el codigo">
+
+									</div>
+									<div class="col-md-1">
+										<button style="font-size: 15px">
+											<i class="fa fa-address-book"></i>
+										</button>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-3">
+										<label class="" for="">Nombre:</label>
+									</div>
+									<div class="col-md-5">
+										<input class="" type="text" id="" value="RICARDO GOMEZ" name=""
+											placeholder="Ingrese el nombre">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-3">
+										<label class="" for="">Especialidad:</label>
+									</div>
+									<div class="col-md-5">
+										<input class="" type="text" id="" name="" value="ENDOCRINOLOGO"
+											placeholder="Ingrese la especialidad">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-3">
+										<label class="" for="">Consultorio:</label>
+									</div>
+									<div class="col-md-5">
+										<input class="" type="text" id="" name="" value="D 505"
+											placeholder="Ingrese el consultorio">
+									</div>
+								</div>
+							</fieldset>
+						</div>
+					</div>
+					-->
+			<div class="row">
+				<div class="col-md-13">
+					<fieldset>
+						
+						<legend>Medicamentos</legend>
+						<div class="row">
+							<div class="col-md-9">
+								<table class="table">
+											<thead>
+												<tr>
+													<th class="col-md-2">Item</th>
+													<th class="col-md-5">Descripcion</th>
+													<th class="col-md-2">Cantidad</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td class="col-md-2">1</td>
+													<td class="col-md-5">PARACETAMOL 30MG</td>
+													<td class="col-md-2">2</td>
+												</tr>
+												<tr>
+													<td class="col-md-2">3</td>
+													<td class="col-md-5">PANADOL ANTIGRIPAL 390MG</td>
+													<td class="col-md-2">2</td>
+												</tr>
+												<tr>
+													<td class="col-md-2">3</td>
+													<td class="col-md-5">VITAMINA C</td>
+													<td class="col-md-2">1</td>
+												</tr>
+
+
+												
+
+											</tbody>
+										</table>
+							</div>
+						</div>
+						<br>
+						<!--  
+						<div class="row">
+							<div class="col-md-3">
+								<label class="" for="">Numero:</label>
+							</div>
+							<div class="col-md-3">
+								<input class="form-control" type="text" id="" name="" value="001-000029"
+									size="10" placeholder="Numero">
+							</div>
+						</div>
+						<br>-->
+						<div class="row">
+							<div class="col-md-3">
+								<label class="" for="id_codigo">Dia cita:</label>
+							</div>
+							<div class="col-md-3">
+								<input class="form-control" type="date" id="" value="5/18/2018" name=""
+									placeholder="Dia" size="10">
+
+							</div>
+								
+							<div class="col-md-1">
+								<label class="" for="id_codigo">Hora:</label>
+							</div>
+							<div class="col-md-3">
+								<input class="form-control" type="text" id="" name="" value="17:50"
+									placeholder="Hora" size="10">
+
+							</div>
+							<div class="col-md-1">
+								<button style="font-size: 15px">
+									<i class="fa fa-check"></i>
+								</button>
+
+							</div>
+						</div>
+						<br>
+						
+
+
+
+					</fieldset>
+				</div>
+			</div>
+			<br>
+			<div class="col-md-5"></div>
+			<br>
+			<div class="row">
+				<div class="col-md-2" align="center"></div>
+				<div class="col-md-2" align="center">
+					<button type="submit" class="btn btn-success">
+						Nueva <span class="glyphicon glyphicon-plus"></span>
+					</button>
+				</div>
+				<div class="col-md-2" align="center">
+					<button type="submit" class="btn btn-primary">
+						Grabar <i class="fa fa-save"></i>
+					</button>
+				</div>
+				<div class="col-md-2" align="center">
+					<button type="submit" class="btn btn-danger">
+						Salir <span class="glyphicon glyphicon-remove"></span>
+					</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</body>
+</html>
+
+
+
+
